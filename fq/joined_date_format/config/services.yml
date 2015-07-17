@@ -1,0 +1,8 @@
+services:
+    fq.joined_date_format.listener:
+        class: fq\joined_date_format\event\listener
+        arguments:
+            - @config
+            - @user
+        tags:
+            - { name: event.listener }
