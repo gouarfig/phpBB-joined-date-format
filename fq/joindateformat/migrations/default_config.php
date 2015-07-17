@@ -1,13 +1,13 @@
 <?php
 /**
 *
-* @package joined_date_format
+* @package joindateformat
 * @copyright (c) 2015 Fred Quointeau
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
 
-namespace fq\joined_date_format\migrations;
+namespace fq\joindateformat\migrations;
 
 class default_config extends \phpbb\db\migration\migration
 {

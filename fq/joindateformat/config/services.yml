@@ -1,6 +1,6 @@
 services:
     fq.joined_date_format.listener:
-        class: fq\joined_date_format\event\listener
+        class: fq\joindateformat\event\listener
         arguments:
             - @config
             - @user

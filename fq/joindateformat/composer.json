@@ -1,5 +1,5 @@
 {
-   "name": "fq/joined_date_format",
+   "name": "fq/joindateformat",
    "type": "phpbb-extension",
    "description": "Configure the format of the joined date.",
    "homepage": "",
