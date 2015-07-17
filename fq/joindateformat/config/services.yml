@@ -1,5 +1,5 @@
 services:
-    fq.joined_date_format.listener:
+    fq.joindateformat.listener:
         class: fq\joindateformat\event\listener
         arguments:
             - @config
